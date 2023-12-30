@@ -1,0 +1,868 @@
+@media  screen and (max-width:425px){
+    
+    main .container {
+        width: 85%;
+        margin: auto;
+      }
+
+    header{
+        display: flex;
+        padding: 14px 0px;
+    }
+    header .logo img{
+        width: 29.63px;
+height: 29.63px;
+    }
+    header .row{
+    font-size: 10px;
+    }
+    .container{
+        width:calc(100% - 30px);
+        margin: auto;
+    }
+    header nav ul{
+        display: none;
+    }
+    header .auth{
+        display: flex;
+        gap: 10px;
+    }
+    header .auth a{
+        font-size: 12px;
+    }
+    header .auth .Login{
+        padding: 12px 20px;
+    }
+     main .hero{
+       margin-top: 20px;
+    }
+    main .hero .title{
+        display: flex;
+        padding: 14px;
+        gap: 10px;
+       flex-wrap: wrap;
+
+    }
+    main .hero .title .lines{
+        width: 39px;
+height: 43px;
+position: absolute;
+left: -20px;
+top: -20px;
+    }
+
+    main .hero .title .lines1{
+        display: flex;
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+    }
+    .hero .title .orange {
+        font-size: 12px;
+        font-weight: 400px;
+
+    }
+    .hero .title .creative{
+        font-size: 12px;
+        font-weight: 400px;
+    }
+    .hero .description .p11{
+        font-size: 18px;
+        font-weight: 200;
+    }
+
+    .hero .description .p22{
+        
+            font-size: 14px;
+            font-weight: 200;
+    }
+
+    .hero .auth-h {
+        display: flex;
+        gap: 12px;
+    }
+    .hero .auth-h a{
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .auth-h .ExploreCourses{
+        padding: 14px 20px;
+    }
+    .auth-h .ViewPricing{
+        padding: 14px 20px;
+    }
+    .p-i{
+        display: flex;
+
+        padding: 10px 10px;
+    }
+    .iconphoto {
+        padding: 20px;
+    }
+    .iconphoto .photo{
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+
+    }
+    .iconphoto .photo img{
+        padding: 10px 10px;
+    }
+
+    .p-i .iconphoto .company{
+        display: none;
+    }
+    
+    .benefits{
+        gap:40px;
+        display: flex;
+flex-direction: column;
+align-items: flex-start;
+    }
+
+    .benefits .right .heading{
+        font-size: 28px;
+    }
+
+    .benefits .headingandp{
+        margin: auto;
+        gap: 20px;
+
+        display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+align-self: stretch;
+    }
+    .benefits .para{
+        font-size: 14px;
+    }
+    .benefits .auth .Viewall {
+     font-size: 14px;
+    }
+
+    section .container1{
+        display: flex;
+flex-direction: column;
+gap: 20px;
+
+    }
+
+    .benefits .card{
+        display: flex;
+        flex-wrap: wrap;
+padding: 30px ;
+flex-direction: column;
+align-items: flex-end;
+gap: 30px;
+align-self: stretch;
+
+    }
+
+    section .paragraph{
+        font-size: 14px;
+
+    }
+
+section .container2{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-content: center;
+    justify-content: center;
+}
+
+.OurCourses{
+gap: 40px;
+}
+
+.container3{
+gap: 20px;
+flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    
+}
+.card img {
+    height: 172px;
+    width: 309px;
+  align-self: stretch;
+  border-radius: 8px;
+  background: lightgray 50% / cover no-repeat;
+}
+    .item-cont{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 20px;
+
+    }
+    .card{
+        display: flex;
+padding: 24px 24px;
+flex-direction: column;
+align-items: flex-start;
+gap: 24px;
+align-self: stretch;
+width: 100%;
+
+    }
+    .card img{
+        height: 172px;
+
+    }
+    .item-1{
+        display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 20px;
+align-self: stretch;
+    }
+    .card .ath{
+        display: flex;
+flex-direction: column;
+align-items: flex-start;
+align-self: stretch;
+padding: 8px 14px;
+align-items: flex-start;
+gap: 10px;
+    }
+    .con1 .ath .left a {
+        font-size: 14px;
+
+    }
+    .con1 .ath .right {
+        font-size: 14px;
+
+    }
+    .con1 h2 {
+        font-size: 20px;
+
+    }
+    .item-2{
+            display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    align-self: stretch;
+        
+    }
+    .item-3{
+        display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 20px;
+align-self: stretch;
+    }
+    .testimonials .container4{
+        display: flex;
+flex-direction: column;
+align-items: flex-end;
+gap: 40px;
+    }
+    .header1{
+        display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+gap: 20px;
+width:357px;
+;
+    }
+    
+    .right1 h2{
+        font-size: 28px;
+
+    }
+    .right1 p{
+        font-size: 16px;
+    }
+
+    .i-c-p{
+      gap: 20px;
+    }
+    .item-container{
+        display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 20px;
+align-self: stretch;
+    }
+    .item-container2 {
+        flex-direction: column;
+        gap: 20px;
+      }
+      .item-container1 {
+        width: 100%;
+        height: 100%;
+      }
+      .left2{
+        display: flex;
+padding: 14px 16px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+      }
+      .nav2{
+        display: flex;
+padding: 10px 10px;
+align-items: center;
+align-self: stretch;
+      }
+
+      .container5{
+gap: 40px;
+      }
+      .head2{
+        display: flex;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+align-self: stretch;
+      }
+      .items{
+        display: flex;
+padding: 20px;
+flex-direction: column;
+align-items: flex-start;
+gap: 30px;
+align-self: stretch;
+      }
+      .card1{
+        display: flex;
+padding: 30px 20px 20px 20px;
+flex-direction: column;
+align-items: center;
+gap: 30px;
+align-self: stretch;
+      }
+      .subcontainer5{
+        display: flex;
+padding: 20px;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+align-self: stretch;
+width: 100%;
+      }
+      .subcontainer5 .nav5{
+        display: flex;
+padding: 5px;
+align-items: flex-start;
+gap: 8px;
+align-self: stretch;
+      }
+
+
+  .nav5 p{
+font-size: 16px;
+    }
+    
+      .nav5{
+        display: flex;
+padding: 20px;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+align-self: stretch;
+      }
+
+      .footer{
+        width: 100%;
+        position: relative;
+        background-color: var(--Absolute-White, #FFF);
+
+        ;
+    }
+    .footer .container{
+        width: 100%;
+        position:absolute;
+        top: 0;
+        left: 0;
+    }
+    
+    .footer-left-side{
+        padding: 150px 0 8px 30px;
+    }
+    footer .info{
+        padding-top:8px ;
+    }
+    .footer-right-side{
+        padding: 15px 0 10px 20px ;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .footer-right-side .icon{
+        background: var(--White-97, #F7F7F8);
+
+    }
+    
+    footer hr{
+        width: 100%;
+    }
+    footer .copy-right{
+       width:90%;
+       text-align: center;
+       padding-bottom: 20px;
+    }footer{
+        display: flex;
+width: 390px;
+padding: 50px 20px 24px 20px;
+flex-direction: column;
+align-items: flex-start;
+gap: 20px;
+
+      }
+      footer .container{
+        width: 100%;
+      }
+
+
+
+}
+
+@media  screen and (min-width:425px) and (max-width:800px){
+    main .container {
+        width: 85%;
+        margin: auto;
+      }
+
+    header{
+        display: flex;
+        padding: 14px 0px;
+    }
+    header .logo img{
+        width: 35px;
+height: 35px;
+    }
+    header .row{
+    font-size: 14px;
+    }
+    .container{
+        width:calc(100% - 30px);
+        margin: auto;
+    }
+    header nav ul{
+        display: none;
+    }
+    header .auth{
+        display: flex;
+        gap: 10px;
+    }
+    header .auth a{
+        font-size: 14px;
+    }
+    header .auth .Login{
+        padding: 12px 20px;
+    }
+     main .hero{
+       margin-top: 20px;
+    }
+    main .hero .title{
+        display: flex;
+        padding: 14px;
+        gap: 10px;
+       flex-wrap: wrap;
+
+    }
+    main .hero .title .lines{
+        width: 39px;
+height: 43px;
+position: absolute;
+left: -20px;
+top: -20px;
+    }
+
+    main .hero .title .lines1{
+        display: flex;
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+    }
+    .hero .title .orange {
+        font-size: 16px;
+        font-weight: 400px;
+
+    }
+    .hero .title .creative{
+        font-size: 16px;
+        font-weight: 400px;
+    }
+    .hero .description .p11{
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .hero .description .p22{
+        
+            font-size: 18px;
+            font-weight: 400;
+    }
+
+    .hero .auth-h {
+        display: flex;
+        gap: 12px;
+    }
+    .hero .auth-h a{
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .auth-h .ExploreCourses{
+        padding: 14px 20px;
+    }
+    .auth-h .ViewPricing{
+        padding: 14px 20px;
+    }
+    .p-i {
+        display: flex;
+        padding: 30px;
+      }
+      .iconphoto {
+        margin-top: 60px;
+         margin: auto;
+        display: flex;
+        padding: 24px;
+        align-items: flex-start;
+      }
+      .iconphoto .photo {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        flex: 1 0 0;
+        flex-direction: row;
+      }
+      
+      .iconphoto .photo img {
+        border-radius: 8px;
+        border: 1px solid #f1f1f3;
+        background: #fcfcfd;
+        padding: 10px 1px;
+      }
+      
+
+    .p-i .iconphoto .company{
+        display: block;
+    }
+    
+    .benefits{
+        gap:60px;
+        display: flex;
+flex-direction: column;
+align-items: flex-start;
+    }
+
+    .benefits .right .heading{
+        font-size: 30px;
+    }
+
+    .benefits .headingandp{
+        margin: auto;
+        gap: 20px;
+
+        display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+align-self: stretch;
+    }
+    .benefits .para{
+        font-size: 16px;
+    }
+    .benefits .auth .Viewall {
+     font-size: 16px;
+    }
+
+    section .container1{
+        display: flex;
+flex-direction: row;
+gap: 20px;
+
+    }
+
+    .benefits .card{
+        display: flex;
+        flex-wrap: wrap;
+padding: 30px ;
+flex-direction: column;
+align-items: flex-end;
+gap: 40px;
+align-self: stretch;
+
+    }
+
+    section .paragraph{
+        font-size: 14px;
+
+    }
+
+section .container2{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-content: center;
+    justify-content: center;
+}
+
+.OurCourses{
+gap: 40px;
+}
+
+.container3{
+gap: 20px;
+flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    
+}
+.card img {
+    height: 172px;
+    width: 309px;
+  align-self: stretch;
+  border-radius: 8px;
+  background: lightgray 50% / cover no-repeat;
+}
+    .item-cont{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+gap: 20px;
+
+    }
+
+    .container3 .left p{
+        width: 100%;
+    }
+    .card{
+        display: flex;
+padding: 40px;
+flex-direction: column;
+align-items: flex-start;
+gap: 24px;
+align-self: stretch;
+width: 100%;
+
+
+    }
+    .card img{
+        height: 172px;
+
+    }
+    .item-1{
+        display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 20px;
+align-self: stretch;
+    }
+    .card .ath{
+        display: flex;
+justify-content: space-between;
+align-items: center;
+align-self: stretch;
+
+    }
+    .con1 .auth .left{
+        display: flex;
+        flex-wrap: wrap;
+align-items: flex-start;
+padding: 8px 14px;
+gap: 10px;
+flex-direction: row;
+    }
+
+    .con1 .ath .left a {
+        font-size: 12px;
+        
+
+    }
+    .con1 .ath .right {
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;        
+
+    }
+    .con1 h2 {
+        font-size: 20px;
+
+    }
+    .item-2{
+            display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    align-self: stretch;
+        
+    }
+    .item-3{
+        display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 20px;
+align-self: stretch;
+    }
+    .testimonials .container4{
+        display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 60px;
+
+    }
+    .header1{
+        display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+gap: 20px;
+width:357px;
+width: 100%;
+    }
+    
+    .right1 h2{
+        font-size: 30px;
+
+    }
+    .right1 p{
+        font-size: 18px;
+
+    }
+
+    .i-c-p{
+      gap: 20px;
+    }
+    .item-container{
+        display: flex;
+flex-direction: row;
+align-items: flex-start;
+gap: 20px;
+align-self: stretch;
+    }
+    .item-container2 {
+        flex-direction: row;
+        gap: 20px;
+      }
+      .item-container1 {
+        width: 100%;
+        height: 100%;
+      }
+      .left2{
+        display: flex;
+padding: 14px 16px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+      }
+      .nav2{
+        display: flex;
+padding: 10px 10px;
+align-items: center;
+align-self: stretch;
+      }
+
+      .container5{
+gap: 40px;
+      }
+      .head2{
+        display: flex;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+align-self: stretch;
+      }
+      .items{
+        display: flex;
+padding: 20px;
+flex-direction: column;
+align-items: flex-start;
+gap: 30px;
+align-self: stretch;
+      }
+      .card1{
+        display: flex;
+padding: 30px 20px 20px 20px;
+flex-direction: column;
+align-items: center;
+gap: 30px;
+align-self: stretch;
+      }
+      .subcontainer5{
+        display: flex;
+padding: 20px;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+align-self: stretch;
+width: 100%;
+      }
+      .subcontainer5 .nav5{
+        display: flex;
+padding: 5px;
+align-items: flex-start;
+gap: 8px;
+align-self: stretch;
+      }
+
+
+  .nav5 p{
+font-size: 16px;
+    }
+    
+      .nav5{
+        display: flex;
+padding: 20px;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+align-self: stretch;
+      }
+      .footer{
+        width: 100%;
+        position: relative;
+
+        ;
+    }
+    .footer .container{
+        width: 100%;
+        position:absolute;
+        top: 0;
+        left: 0;
+    }
+    
+    .footer-left-side{
+        padding: 150px 0 8px 30px;
+    }
+    footer .info{
+        padding-top:8px ;
+    }
+    .footer-right-side{
+        padding: 15px 0 10px 20px ;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .footer-right-side .icon{
+        background: var(--White-97, #F7F7F8);
+
+    }
+    
+    footer hr{
+        width: 100%;
+    }
+    footer .copy-right{
+       width:90%;
+       text-align: center;
+       padding-bottom: 20px;
+    }
+
+
+
+}
+
